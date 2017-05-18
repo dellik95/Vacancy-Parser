@@ -1,0 +1,11 @@
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\bin\Debug\ParserVacancy.exe.config
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\bin\Debug\ParserVacancy.exe
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\bin\Debug\ParserVacancy.pdb
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\bin\Debug\AngleSharp.dll
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\bin\Debug\AngleSharp.xml
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.csprojResolveAssemblyReference.cache
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.Form1.resources
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.Properties.Resources.resources
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.csproj.GenerateResource.Cache
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.exe
+C:\Users\Gloomy\Desktop\Vacancy Parser\ParserVacancy\ParserVacancy\obj\Debug\ParserVacancy.pdb
